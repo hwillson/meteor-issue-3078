@@ -34,7 +34,7 @@ Meteor._localStorage.setItem('key', 'Some Value!');
 Meteor._localStorage.removeItem('key');
 ```
 
-12) Access http://localhost/app1; in your browser console, run:
+12) Go back to http://localhost/app1; in your browser console, run:
 ```js
 Meteor._localStorage.getItem('key');
 ```
