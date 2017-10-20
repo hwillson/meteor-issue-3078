@@ -39,4 +39,4 @@ Meteor._localStorage.removeItem('key');
 Meteor._localStorage.getItem('key');
 ```
 
-The item will be removed even though we're using 2 separate applications.
+**The item will be removed even though we're using 2 separate applications.**
